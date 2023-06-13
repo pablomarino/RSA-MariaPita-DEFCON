@@ -1,2 +1,3 @@
-# RSA_Mariapita_defcon
-Maria Pita Defcon 2017, RSA Conference Paper
+# 2017 *MariaPita DEFCON* conference RSA Presentation
+![Conference banner](img/banner.jpg)
+Maria Pita Defcon conference 2017 edition, RSA presentation including paper and slides.
