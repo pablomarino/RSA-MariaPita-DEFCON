@@ -2,4 +2,4 @@
 
 ![Conference banner](img/banner.jpg)
 
-Maria Pita Defcon conference 2017 edition, RSA presentation including paper and slides.
+Presentation introducing RSA algorithm showcased on the Maria Pita DEFCON conference 2017 edition.
