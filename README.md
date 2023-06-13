@@ -1,4 +1,4 @@
-# 2017 *MariaPita DEFCON* conference RSA Presentation
+# 2017 *MariaPita DEFCON* conference - RSA Presentation
 
 ![Conference banner](img/banner.jpg)
 
